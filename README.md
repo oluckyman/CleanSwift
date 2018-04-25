@@ -1,10 +1,16 @@
-To learn more about Clean Swift and the VIP cycle, read:
+# Clean Swift Templates
 
-http://clean-swift.com/clean-swift-ios-architecture
+This is a modification of Clean Swift templates (http://clean-swift.com) to make them consistent with XCode 9.3 code style
 
-There is a sample app available at:
+To learn more about Clean Swift and the VIP cycle, read: http://clean-swift.com/clean-swift-ios-architecture
+There is a sample app available at: https://github.com/Clean-Swift/CleanStore
 
-https://github.com/Clean-Swift/CleanStore
+# Modifications
+
+- Braces follow the OTBS (https://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS)
+
+
+# Installation
 
 To install the Clean Swift Xcode templates, run:
 
