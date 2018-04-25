@@ -7,6 +7,7 @@ There is a sample app available at: https://github.com/Clean-Swift/CleanStore
 
 # Modifications
 
+- Indent is changed to a standarized 4-spaces indent
 - Braces follow the OTBS (https://en.wikipedia.org/wiki/Indentation_style#Variant:_1TBS_(OTBS))
 - `// MARK:` comments changed to `// MARK: -` to show nice separator in quick jump menu
 
